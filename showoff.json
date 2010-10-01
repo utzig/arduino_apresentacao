@@ -1,0 +1,12 @@
+{
+	"name": "Arduino", "sections":
+	[
+		{ "section" : "intro" },
+		{ "section" : "hw" },
+		{ "section" : "expanding" },
+		{ "section" : "electronics" },
+		{ "section" : "ide" },
+		{ "section" : "code" },
+		{ "section" : "end" }
+	]
+}
